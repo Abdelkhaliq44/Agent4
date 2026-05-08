@@ -1,0 +1,32 @@
+{
+  "routes": [
+    {
+      "line_name": "metro",
+      "score": 9.0
+    },
+    {
+      "line_name": "teleferik",
+      "score": 11.0
+    },
+    {
+      "line_name": "tram",
+      "score": 11.0
+    },
+    {
+      "line_name": "L12",
+      "score": 13.0
+    },
+    {
+      "line_name": "L36",
+      "score": 13.0
+    },
+    {
+      "line_name": "L58",
+      "score": 13.0
+    },
+    {
+      "line_name": "L89A",
+      "score": 13.0
+    }
+  ]
+}

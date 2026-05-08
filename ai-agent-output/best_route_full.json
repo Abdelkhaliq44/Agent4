@@ -1,0 +1,161 @@
+{
+  "doc_id": "metro",
+  "transport_type": "metro",
+  "reason": "This metro route was chosen as it was the only available option and fit the low cost and low comfort preferences.",
+  "points": [
+    {
+      "latitude": 36.7859159,
+      "longitude": 3.0624544
+    },
+    {
+      "latitude": 36.7793569,
+      "longitude": 3.0580611
+    },
+    {
+      "latitude": 36.7662059,
+      "longitude": 3.0535169
+    },
+    {
+      "latitude": 36.7600796,
+      "longitude": 3.0567591
+    },
+    {
+      "latitude": 36.7572513,
+      "longitude": 3.0615548
+    },
+    {
+      "latitude": 36.7514164,
+      "longitude": 3.0710222
+    },
+    {
+      "latitude": 36.7467636,
+      "longitude": 3.0727333
+    },
+    {
+      "latitude": 36.7423275,
+      "longitude": 3.0830169
+    },
+    {
+      "latitude": 36.7337659,
+      "longitude": 3.1007959
+    },
+    {
+      "latitude": 36.725945,
+      "longitude": 3.1020991
+    },
+    {
+      "latitude": 36.7179441,
+      "longitude": 3.1112002
+    },
+    {
+      "latitude": 36.7215183,
+      "longitude": 3.1193612
+    },
+    {
+      "latitude": 36.7220058,
+      "longitude": 3.1325379
+    },
+    {
+      "latitude": 36.7218132,
+      "longitude": 3.1375355
+    },
+    {
+      "latitude": 36.7220058,
+      "longitude": 3.1325379
+    },
+    {
+      "latitude": 36.7215183,
+      "longitude": 3.1193612
+    },
+    {
+      "latitude": 36.7179441,
+      "longitude": 3.1112002
+    },
+    {
+      "latitude": 36.725945,
+      "longitude": 3.1020991
+    },
+    {
+      "latitude": 36.7146834,
+      "longitude": 3.1001919
+    },
+    {
+      "latitude": 36.7098163,
+      "longitude": 3.0908915
+    },
+    {
+      "latitude": 36.7056428,
+      "longitude": 3.0826531
+    }
+  ],
+  "markers": [
+    {
+      "latitude": 36.7859159,
+      "longitude": 3.0624544
+    },
+    {
+      "latitude": 36.7793569,
+      "longitude": 3.0580611
+    },
+    {
+      "latitude": 36.7662059,
+      "longitude": 3.0535169
+    },
+    {
+      "latitude": 36.7600796,
+      "longitude": 3.0567591
+    },
+    {
+      "latitude": 36.7572513,
+      "longitude": 3.0615548
+    },
+    {
+      "latitude": 36.7514164,
+      "longitude": 3.0710222
+    },
+    {
+      "latitude": 36.7467636,
+      "longitude": 3.0727333
+    },
+    {
+      "latitude": 36.7423275,
+      "longitude": 3.0830169
+    },
+    {
+      "latitude": 36.7337659,
+      "longitude": 3.1007959
+    },
+    {
+      "latitude": 36.725945,
+      "longitude": 3.1020991
+    },
+    {
+      "latitude": 36.7179441,
+      "longitude": 3.1112002
+    },
+    {
+      "latitude": 36.7215183,
+      "longitude": 3.1193612
+    },
+    {
+      "latitude": 36.7220058,
+      "longitude": 3.1325379
+    },
+    {
+      "latitude": 36.7218132,
+      "longitude": 3.1375355
+    },
+    {
+      "latitude": 36.7146834,
+      "longitude": 3.1001919
+    },
+    {
+      "latitude": 36.7098163,
+      "longitude": 3.0908915
+    },
+    {
+      "latitude": 36.7056428,
+      "longitude": 3.0826531
+    }
+  ]
+}
